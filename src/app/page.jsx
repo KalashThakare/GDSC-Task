@@ -11,7 +11,7 @@ import { Hero } from "@/components/hero";
 
 export default function Home() {
   return (
-    <div className="font-sans justify-center items-center mx-auto mt-0 mb-0 pt-0  w-full">
+    <div className="font-sans justify-center items-center mx-auto mt-0 mb-0 pt-0 align-baseline w-full">
       <Navbar />
       <section className="font-sans justify-center items-center mx-auto">
       <Hero />
