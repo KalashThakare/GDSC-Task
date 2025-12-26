@@ -38,6 +38,8 @@ export default function Home() {
           <h3 className="text-[#5F5F5F] font-bold text-[3.75rem]">
             Get To Know Us! 
             Get To Know Us! 
+            Get To Know Us! 
+            Get To Know Us! 
           </h3>
         </div> 
       </div>
